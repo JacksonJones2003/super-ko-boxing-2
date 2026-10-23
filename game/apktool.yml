@@ -1,0 +1,16 @@
+version: 3.0.3
+apkFileName: super-ko-boxing-2-2-8-en-android.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 4
+  targetSdkVersion: 28
+versionInfo:
+  versionCode: 11
+  versionName: 2.8
+resourcesInfo:
+  packageId: 127
+  keepRawValues: true
+doNotCompress:
+- mp3

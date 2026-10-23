@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="of_home">Home</string>
+    <string name="of_banned_dialog">This user or application has been banned. All Feint functionality is disabled.</string>
+    <string name="of_settings">Settings</string>
+    <string name="of_exit_feint">Exit Feint</string>
+    <string name="of_offline_notification">You are offline.</string>
+    <string name="of_offline_notification_line2">Feint requires an active network connection.</string>
+    <string name="of_score_submitted_notification">High Score submitted</string>
+    <string name="app_name">Super K.O. Boxing® 2 Free</string>
+    <string name="IDS_YES">Yes</string>
+    <string name="IDS_NO">No</string>
+    <string name="IDS_CHECKSUM">Performing resource file integrity check...</string>
+    <string name="IDS_CHECKSUM_FAILED_SIZE">File integrity check failed: Wrong size.</string>
+    <string name="IDS_CHECKSUM_FAILED_CHECKSUM">File integrity check failed: Checksum value %d is wrong.</string>
+    <string name="IDS_CHECKSUM_FAILED_GENERIC">"File integrity check failed: "</string>
+    <string name="IDS_DOWNLOAD_PROMPT">"You need the resource pack to play. The resource pack is %s. Would you like to download it to your phone's memory or your SD card?"</string>
+    <string name="IDS_DOWNLOAD_OPTION_PHONE_MEMORY">Phone Memory</string>
+    <string name="IDS_DOWNLOAD_OPTION_SD_CARD">SD Card</string>
+    <string name="IDS_DOWNLOADING" formatted="false">Downloading %s of %s bytes...</string>
+    <string name="IDS_DOWNLOAD_CANCELLED_BY_USER">Download cancelled.</string>
+    <string name="IDS_DOWNLOAD_FAILED_GENERIC">Download failed.</string>
+    <string name="IDS_DOWNLOAD_FAILED_CONNECTION_FAILED">Download failed. Could not connect to server.</string>
+    <string name="IDS_DOWNLOAD_FAILED_CONNECTION_DROPPED">Download failed. Lost connection with server. Please try again in an area with stronger signal or WiFi coverage.</string>
+    <string name="IDS_DOWNLOAD_FAILED_INSUFFICIENT_STORAGE">Download failed: Insufficient storage. %s bytes free required.</string>
+    <string name="IDS_DOWNLOAD_FAILED_UNKNOWN_REASON">Download failed. Unknown download error.</string>
+    <string name="IDS_DOWNLOAD_FAILED_NO_SD_CARD">Download failed: SD card not found.</string>
+    <string name="IDS_DOWNLOAD_FAILED_COULD_NOT_SAVE">Download failed: Could not save resource file. You may need to have as much as 35% more free space than the file requires to be able to save.</string>
+    <string name="IDS_RETRY">Retry</string>
+    <string name="IDS_EXIT">Exit</string>
+    <string name="IDS_DOWNLOAD_RESUME_PROMPT">You may be able to resume your download. %s is the current target. Resume downloading?</string>
+    <string name="IDS_RESUME">Resume</string>
+    <string name="IDS_RESTART">Start Over</string>
+    <string name="IDS_RESTART_CONFIRM">Are you sure you want to start your download over?</string>
+    <string name="IDS_PLAY_OR_DELETE_PROMPT">Would you like to play the game, or delete the resource pack from your phone? You will not lose your save data if you delete the resource pack, and you can always download it again.</string>
+    <string name="IDS_PLAY">Play</string>
+    <string name="IDS_DELETE">Delete</string>
+    <string name="IDS_DELETE_CONFIRM">"Delete resource pack? You will free %s but you won't be able to play until you download it again."</string>
+    <string name="IDS_DELETE_SUCCESS">Resource pack deleted successfully.</string>
+    <string name="IDS_DELETE_FAILED">"Failed to delete resource pack: "</string>
+    <string name="IDS_UPGRADE_RECOMMENDED">For optimal peformance we recommend that you replace the previously downloaded resources (84,647KB) with optimized resources(%s). Download the replacement now?</string>
+    <string name="IDS_NOTNOW">Not now</string>
+    <string name="IDS_NEVER">Never</string>
+    <string name="xperia_content">true</string>
+</resources>

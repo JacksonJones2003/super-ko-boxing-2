@@ -1,0 +1,33 @@
+Glu-Test-Localisation = false
+
+# softkey
+Glu-Softkey-Reverse = false
+Glu-Softkey-Offset = 0
+
+# cheat
+Glu-Cheats-Enable = false
+
+# demo
+Glu-Demo-Enabled = false
+Glu-Demo-Play-Limit = 1
+Glu-Demo-Time-Limit = 10000
+Glu-Demo-Game-Limit = 1
+Glu-Demo-Menu = Upgrade
+Glu-Demo-URL = http://market.android.com/details?id=com.glu.android.skob2
+Glu-Demo-Info-Text = Welcome! This demo has limited play. Would you like to start playing the demo now?
+Glu-Demo-Play-Exp = There are no activations remaining, to continue playing you must upgrade. Would you like to upgrade now?
+Glu-Demo-Time-Exp = You've reached the end of this demo. Upgrade to the full version to continue playing! Would you like to upgrade now?
+Glu-Demo-Upgrade-Prompt = Would you like to upgrade to the full version?
+Glu-Demo-Unavailable-Text = This feature is only available in the full version.
+
+# res file url
+#Glu-Res-File-URL = http://ss3.glu.com/a/android/skob2.big
+Glu-Res-File-URL = http://rpack.glu.com/skob2/
+Glu-Upsell-URL = http://gcs.glu.com/gcs/fe?wsid=2&cid=113423&src=skob2_app
+
+#Analytics
+Glu-AA-URL = http://aa.glu.com:8080/aa/fe
+
+#VCast
+Glu-VCAST-Enabled = false
+Glu-VCAST-Keyword = SuperKOBoxing

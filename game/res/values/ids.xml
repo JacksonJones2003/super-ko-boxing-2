@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <id name="gameview" />
+    <id name="gameAdviewSmall" />
+    <id name="gameAdviewLarge" />
+    <id name="progress" />
+    <id name="webview" />
+    <id name="resview" />
+    <id name="adviewSmall" />
+    <id name="adviewLarge" />
+    <id name="home" />
+    <id name="settings" />
+    <id name="exit_feint" />
+</resources>

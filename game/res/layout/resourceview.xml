@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.glu.android.ResFileDownloadView android:id="@id/resview" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <com.google.ads.GoogleAdView android:visibility="gone" android:id="@id/adviewSmall" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <com.google.ads.GoogleAdView android:visibility="gone" android:id="@id/adviewLarge" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>
